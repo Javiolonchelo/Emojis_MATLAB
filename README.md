@@ -6,6 +6,8 @@ Este proyecto representa el culmen de mi carrera universitaria. Estudiar Ingenie
 
 Sin embargo, con los años uno se da cuenta de que... tenía razón.
 
+![Ojos y boca](Ojos_y_boca/demo_1.png) ![Original](Ojos_y_boca/original.jpg)
+
 Esta es la **finalidad última** de los estudios de Telecomunicaciones: saber representar emojis por medio de una herramienta de cálculo asistido por ordenador tan compleja (y cara) como es **MATLAB**.
 
 ¿Antenas? ¿Satélites? ¿Microprocesadores? ¿Procesado de datos?
